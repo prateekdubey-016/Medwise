@@ -18,7 +18,7 @@ Medwise is a comprehensive hospital management application designed to streamlin
 
 ## 🌐 Live Links
 
-- **Frontend**: [Medwise Frontend](https://medwise-smart-healthcare.netlify.app/)  
+- **Frontend**: [Medwise Frontend](https://medwise-healthcare.netlify.app/)  
 - **Backend**: [Medwise Backend](https://medwise-smart-healthcare.onrender.com/)
 
 ---
